@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Wickypolineni/Wickypolineni/output/snake.svg" alt="Snake animation" />
+
 
 ###
